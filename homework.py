@@ -1,5 +1,4 @@
 from dataclasses import asdict, dataclass
-from email.message import Message
 from typing import Dict, List, Type
 
 
