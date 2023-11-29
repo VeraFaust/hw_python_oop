@@ -36,6 +36,14 @@ python -m venv venv
 source venv/Scripts/activate
 ```
 
+- Установите зависимости из файла requirements.txt
+```
+py -m pip install --upgrade pip
+```
+```
+pip install -r requirements.txt
+```
+
 - Запустите файл homework.py.
 
 ## Пример вывода программы:
@@ -44,5 +52,5 @@ source venv/Scripts/activate
 Тип тренировки: SportsWalking; Длительность: 1.000 ч.; Дистанция: 5.850 км; Ср. скорость: 5.850 км/ч; Потрачено ккал: 157.500.
 
 
-### Автор:
+## Автор:
 Фауст Вера
